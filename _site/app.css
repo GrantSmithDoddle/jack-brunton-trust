@@ -1,0 +1,368 @@
+/* ===  PLUGINS ===*/
+/* ===  BASE  ===*/
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,700");
+/* ===  UNIVERSAL  ===*/
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  left: 0;
+  top: 0;
+  font-size: 100%; }
+
+* {
+  font-family: "Open Sans", sans-serif;
+  color: #414a4e;
+  line-height: 1.6; }
+
+/* ===  TYPOGRAPHY  ===*/
+h1 {
+  font-size: 2.5rem; }
+
+h2 {
+  font-size: 2rem; }
+
+h3 {
+  font-size: 1.375rem; }
+
+h4 {
+  font-size: 1.125rem; }
+
+h5 {
+  font-size: 1rem; }
+
+h6 {
+  font-size: 0.875rem; }
+
+p {
+  font-size: 1.125rem;
+  font-weight: 300;
+  line-height: 1.6; }
+
+h1:after, h2:after, h3:after, h4:after, h5:after, h6:after {
+  content: "";
+  display: block;
+  border-bottom: 4px solid #824D76;
+  margin: 0 auto;
+  width: 6.875rem;
+  padding: 10px 0; }
+
+.font-light {
+  font-weight: 300; }
+
+.font-regular {
+  font-weight: 400; }
+
+.font-heavy {
+  font-weight: 700; }
+
+/* ===  UTILITY  ===*/
+.left {
+  text-align: left; }
+
+.right {
+  text-align: right; }
+
+.center {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto; }
+
+.justify {
+  text-align: justify; }
+
+.hidden-sm {
+  display: none; }
+
+/* ===  GRID  ===*/
+.container {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto; }
+  @media only screen and (min-width: 33.75em) {
+    .container {
+      width: 80%; } }
+  @media only screen and (min-width: 60em) {
+    .container {
+      width: 75%;
+      max-width: 60rem; } }
+
+.row {
+  position: relative;
+  width: 100%; }
+
+.row [class^="col"] {
+  float: left;
+  margin: 15px 2%;
+  min-height: 0.125rem; }
+
+.row::after {
+  content: "";
+  display: table;
+  clear: both; }
+
+.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12 {
+  width: 96%; }
+
+.col-1-sm {
+  width: 4.3333333333%; }
+
+.col-2-sm {
+  width: 12.6666666667%; }
+
+.col-3-sm {
+  width: 21%; }
+
+.col-4-sm {
+  width: 29.3333333333%; }
+
+.col-5-sm {
+  width: 37.6666666667%; }
+
+.col-6-sm {
+  width: 46%; }
+
+.col-7-sm {
+  width: 54.3333333333%; }
+
+.col-8-sm {
+  width: 62.6666666667%; }
+
+.col-9-sm {
+  width: 71%; }
+
+.col-10-sm {
+  width: 79.3333333333%; }
+
+.col-11-sm {
+  width: 87.6666666667%; }
+
+.col-12-sm {
+  width: 96%; }
+
+@media only screen and (min-width: 45em) {
+  .col-1 {
+    width: 4.3333333333%; }
+  .col-2 {
+    width: 12.6666666667%; }
+  .col-3 {
+    width: 21%; }
+  .col-4 {
+    width: 29.3333333333%; }
+  .col-5 {
+    width: 37.6666666667%; }
+  .col-6 {
+    width: 46%; }
+  .col-7 {
+    width: 54.3333333333%; }
+  .col-8 {
+    width: 62.6666666667%; }
+  .col-9 {
+    width: 71%; }
+  .col-10 {
+    width: 79.3333333333%; }
+  .col-11 {
+    width: 87.6666666667%; }
+  .col-12 {
+    width: 96%; }
+  .hidden-sm {
+    display: block; } }
+
+/* ===  COMMON ===*/
+header {
+  background-color: #76824d; }
+
+.brand a,
+.brand-footer a {
+  border-bottom: none; }
+
+section {
+  padding: 30px 0px 30px 0px; }
+
+.grey {
+  background-color: #eceff1; }
+
+address {
+  color: #fff; }
+
+.block-1 {
+  display: block;
+  height: 100px;
+  width: 100%;
+  background-color: #c69; }
+
+center {
+  text-align: center; }
+
+img {
+  max-width: 100%;
+  height: auto; }
+
+li {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  color: #414a4e;
+  line-height: 1.6; }
+
+a {
+  color: #a9ca54;
+  font-weight: 400;
+  text-decoration: none;
+  padding-bottom: 5px;
+  border-bottom: 1px dotted #a9ca54; }
+
+a:hover {
+  color: #824D76; }
+
+.button,
+button,
+input[type="submit"],
+input[type="reset"],
+input[type="button"] {
+  display: inline-block;
+  padding: 15px 30px;
+  color: #5A3551;
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.125rem;
+  line-height: 1.6;
+  letter-spacing: .1rem;
+  text-transform: uppercase;
+  text-decoration: none;
+  white-space: nowrap;
+  background-color: #a9ca54;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+  box-sizing: border-box; }
+  .button:hover, .button:active, .button:focus,
+  button:hover,
+  button:active,
+  button:focus,
+  input[type="submit"]:hover,
+  input[type="submit"]:active,
+  input[type="submit"]:focus,
+  input[type="reset"]:hover,
+  input[type="reset"]:active,
+  input[type="reset"]:focus,
+  input[type="button"]:hover,
+  input[type="button"]:active,
+  input[type="button"]:focus {
+    color: #5A3551;
+    background-color: #8aac35;
+    border: none; }
+  .button a,
+  button a,
+  input[type="submit"] a,
+  input[type="reset"] a,
+  input[type="button"] a {
+    color: #5A3551;
+    border-bottom: none; }
+
+/* ===  LAYOUTS ===*/
+/* ===  HEADER ===*/
+header {
+  border-bottom: 2px solid #515A35; }
+
+/* ===  PHOTO BANNER ===*/
+section#photo-banner {
+  background-image: url("assets/img/north-york-moors-monument.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 50px 0; }
+  section#photo-banner .page-head {
+    font-size: 3rem;
+    font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+    text-shadow: 2px 2px #414a4e; }
+    section#photo-banner .page-head ::after {
+      content: "";
+      display: block;
+      border-bottom: 4px solid #824D76;
+      width: 6.875rem;
+      padding: 10px 0; }
+  section#photo-banner .sub-title {
+    font-size: 2rem;
+    color: #fff;
+    text-shadow: 2px 2px #414a4e; }
+
+/* ===  ABOUT THE TRUST ===*/
+#about-the-trust {
+  background-color: #f9f4f8; }
+
+/* ===  TRUSTEES ===*/
+/* ===  LEGACY ===*/
+#legacy {
+  background-color: #fbfdf7; }
+
+#causes {
+  background-color: #eceff1; }
+
+.case {
+  background-color: #fff; }
+
+.case-content {
+  padding: 0 1em;
+  min-height: 26em; }
+
+.logo {
+  height: 125px;
+  width: 125px;
+  margin: 0 1em 0.85em 0;
+  float: left;
+  display: block; }
+  .logo .wdcss {
+    height: 125px;
+    width: 125px;
+    background-image: url("assets/img/WDCSS-Logo.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center; }
+  .logo .blue-cross {
+    height: 125px;
+    width: 125px;
+    background-image: url("assets/img/blue-cross-logo.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center; }
+  .logo .church {
+    height: 125px;
+    width: 125px;
+    background-image: url("assets/img/church-housing-trust-logo.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center; }
+  .logo .yorkshire {
+    height: 125px;
+    width: 125px;
+    background-image: url("assets/img/yorkshire-air-ambulance-logo.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center; }
+
+/* ===  COMMON ===*/
+footer {
+  padding: 15px 0;
+  background-color: #5A3551; }
+  footer p {
+    color: #a66897; }
+  footer .brand-footer {
+    text-align: center; }
+  footer img {
+    max-width: 175px; }
+  footer ul {
+    padding-left: 0;
+    list-style: none; }
+    footer ul li {
+      display: inline-block;
+      color: #a66897; }
+    footer ul a {
+      color: #a66897; }
+    footer ul a:hover {
+      color: white; }
+
+/* ===  MODULES ===*/

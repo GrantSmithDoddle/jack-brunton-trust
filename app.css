@@ -283,18 +283,14 @@ section#photo-banner {
     font-size: 3rem;
     font-weight: 700;
     color: #fff;
-    text-transform: uppercase;
-    text-shadow: 2px 2px #414a4e; }
+    text-shadow: 2px 2px #414a4e;
+    line-height: 1.1em; }
     section#photo-banner .page-head ::after {
       content: "";
       display: block;
       border-bottom: 4px solid #76824d;
       width: 6.875rem;
       padding: 10px 0; }
-  section#photo-banner .sub-title {
-    font-size: 2rem;
-    color: #fff;
-    text-shadow: 2px 2px #414a4e; }
 
 /* ===  ABOUT THE TRUST ===*/
 #about-the-trust {
@@ -312,7 +308,8 @@ section#photo-banner {
   background-color: #fff; }
 
 .case-content {
-  padding: 0 1em; }
+  padding: 0 1em;
+  min-height: 32em; }
 
 .logo {
   height: 125px;

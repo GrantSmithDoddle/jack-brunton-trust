@@ -87,9 +87,20 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_site\/assets\/img\/Jack-Brunton-Logo-White.png": {
+		"ft": 32768,
+		"iS": 10274,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/img\/Jack-Brunton-Logo-White.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_site\/assets\/img\/Jack-Brunton-Logo.png": {
 		"ft": 32768,
-		"iS": 5376,
+		"iS": 12140,
 		"oA": 0,
 		"oAP": "\/_site\/assets\/img\/Jack-Brunton-Logo.png",
 		"oF": 0,
@@ -229,11 +240,47 @@
 		"oAP": "\/_site\/index.html",
 		"oF": 0
 		},
+	"\/_site\/LICENSE.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_site\/LICENSE.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/_site\/privacy.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/privacy.html",
 		"oF": 0
+		},
+	"\/_site\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_site\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/app.css": {
 		"aP": 1,
@@ -291,6 +338,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"\/assets\/img\/Jack-Brunton-Logo-White.png": {
+		"ft": 32768,
+		"iS": 10274,
+		"oA": 0,
+		"oAP": "\/assets\/img\/Jack-Brunton-Logo-White.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/img\/Jack-Brunton-Logo.png": {
@@ -682,11 +740,47 @@
 		"oAP": "\/index.html",
 		"oF": 0
 		},
+	"\/LICENSE.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/LICENSE.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/privacy.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/privacy.html",
 		"oF": 0
+		},
+	"\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		}
 	},
 "hooks": [
@@ -695,7 +789,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 516526325,
-	"displayValue": "jack-brunton-website",
+	"displayValue": "jack-brunton-trust",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-kanye"
 	},

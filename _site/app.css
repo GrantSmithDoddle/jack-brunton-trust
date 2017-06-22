@@ -44,7 +44,7 @@ p {
 h1:after, h2:after, h3:after, h4:after, h5:after, h6:after {
   content: "";
   display: block;
-  border-bottom: 4px solid #824D76;
+  border-bottom: 4px solid #76824d;
   margin: 0 auto;
   width: 6.875rem;
   padding: 10px 0; }
@@ -172,7 +172,7 @@ h1:after, h2:after, h3:after, h4:after, h5:after, h6:after {
 
 /* ===  COMMON ===*/
 header {
-  background-color: #76824d; }
+  background-color: #ffffff; }
 
 .brand a,
 .brand-footer a {
@@ -207,14 +207,14 @@ li {
   line-height: 1.6; }
 
 a {
-  color: #a9ca54;
+  color: #76824d;
   font-weight: 400;
   text-decoration: none;
   padding-bottom: 5px;
-  border-bottom: 1px dotted #a9ca54; }
+  border-bottom: 1px dotted #76824d; }
 
 a:hover {
-  color: #824D76; }
+  color: #a9ca54; }
 
 .button,
 button,
@@ -223,7 +223,7 @@ input[type="reset"],
 input[type="button"] {
   display: inline-block;
   padding: 15px 30px;
-  color: #5A3551;
+  color: #fff;
   text-align: center;
   font-weight: 700;
   font-size: 1.125rem;
@@ -250,7 +250,7 @@ input[type="button"] {
   input[type="button"]:hover,
   input[type="button"]:active,
   input[type="button"]:focus {
-    color: #5A3551;
+    color: #fff;
     background-color: #8aac35;
     border: none; }
   .button a,
@@ -258,8 +258,14 @@ input[type="button"] {
   input[type="submit"] a,
   input[type="reset"] a,
   input[type="button"] a {
-    color: #5A3551;
+    color: #fff;
     border-bottom: none; }
+    .button a:hover,
+    button a:hover,
+    input[type="submit"] a:hover,
+    input[type="reset"] a:hover,
+    input[type="button"] a:hover {
+      color: #fff; }
 
 /* ===  LAYOUTS ===*/
 /* ===  HEADER ===*/
@@ -282,7 +288,7 @@ section#photo-banner {
     section#photo-banner .page-head ::after {
       content: "";
       display: block;
-      border-bottom: 4px solid #824D76;
+      border-bottom: 4px solid #76824d;
       width: 6.875rem;
       padding: 10px 0; }
   section#photo-banner .sub-title {
@@ -292,7 +298,7 @@ section#photo-banner {
 
 /* ===  ABOUT THE TRUST ===*/
 #about-the-trust {
-  background-color: #f9f4f8; }
+  background-color: #f8f9f4; }
 
 /* ===  TRUSTEES ===*/
 /* ===  LEGACY ===*/
@@ -306,8 +312,7 @@ section#photo-banner {
   background-color: #fff; }
 
 .case-content {
-  padding: 0 1em;
-  min-height: 26em; }
+  padding: 0 1em; }
 
 .logo {
   height: 125px;
@@ -347,9 +352,9 @@ section#photo-banner {
 /* ===  COMMON ===*/
 footer {
   padding: 15px 0;
-  background-color: #5A3551; }
+  background-color: #515A35; }
   footer p {
-    color: #a66897; }
+    color: #97a668; }
   footer .brand-footer {
     text-align: center; }
   footer img {
@@ -359,9 +364,9 @@ footer {
     list-style: none; }
     footer ul li {
       display: inline-block;
-      color: #a66897; }
+      color: #97a668; }
     footer ul a {
-      color: #a66897; }
+      color: #97a668; }
     footer ul a:hover {
       color: white; }
 

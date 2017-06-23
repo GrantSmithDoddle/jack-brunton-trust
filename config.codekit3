@@ -39,6 +39,16 @@
 		"oAP": "\/_layouts\/default.html",
 		"oF": 0
 		},
+	"\/_site\/app.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/_site\/app-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/_site\/assets\/downloads\/Jack-Brunton-Trust-ApplicationForm.pdf": {
 		"ft": 8192,
 		"oA": 2,
@@ -147,7 +157,7 @@
 		},
 	"\/_site\/assets\/img\/trust-map.jpg": {
 		"ft": 16384,
-		"iS": 110387,
+		"iS": 76443,
 		"oA": 0,
 		"oAP": "\/_site\/assets\/img\/trust-map.jpg",
 		"oF": 0,

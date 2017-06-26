@@ -346,6 +346,9 @@ section#photo-banner {
     background-size: contain;
     background-position: center; }
 
+.left {
+  text-align: left; }
+
 /* ===  COMMON ===*/
 footer {
   padding: 15px 0;

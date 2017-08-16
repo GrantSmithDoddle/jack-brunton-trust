@@ -15,6 +15,12 @@
 		"oAP": "\/_config.yml",
 		"oF": 0
 		},
+	"\/_includes\/analytics.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/analytics.html",
+		"oF": 0
+		},
 	"\/_includes\/footer.html": {
 		"ft": 8192,
 		"oA": 1,
@@ -696,6 +702,18 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"\/sitemap.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/sitemap.html",
+		"oF": 0
+		},
+	"\/sitemap.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/sitemap.xml",
+		"oF": 0
 		}
 	},
 "hooks": [

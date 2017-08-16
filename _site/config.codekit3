@@ -15,6 +15,12 @@
 		"oAP": "\/_config.yml",
 		"oF": 0
 		},
+	"\/_includes\/analytics.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/analytics.html",
+		"oF": 0
+		},
 	"\/_includes\/footer.html": {
 		"ft": 8192,
 		"oA": 1,
@@ -297,7 +303,7 @@
 		},
 	"\/_site\/assets\/img\/trust-map.jpg": {
 		"ft": 16384,
-		"iS": 76443,
+		"iS": 86708,
 		"oA": 0,
 		"oAP": "\/_site\/assets\/img\/trust-map.jpg",
 		"oF": 0,
@@ -431,6 +437,18 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"\/_site\/sitemap.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/sitemap.html",
+		"oF": 0
+		},
+	"\/_site\/sitemap.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/sitemap.xml",
+		"oF": 0
 		},
 	"\/app.css": {
 		"aP": 1,
@@ -1071,6 +1089,18 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"\/sitemap.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/sitemap.html",
+		"oF": 0
+		},
+	"\/sitemap.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/sitemap.xml",
+		"oF": 0
 		}
 	},
 "hooks": [

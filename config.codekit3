@@ -7,447 +7,69 @@
 		"uuidString": "C3F0715D-FB89-46C2-AD7D-D62FF06BEA2D"
 		}
 	],
-"creatorBuild": "25900",
+"creatorBuild": "26680",
 "files": {
 	"\/_config.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/_config.yml",
 		"oF": 0
 		},
 	"\/_includes\/analytics.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_includes\/analytics.html",
 		"oF": 0
 		},
 	"\/_includes\/footer.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/_includes\/footer.html",
 		"oF": 0
 		},
 	"\/_includes\/head.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/_includes\/head.html",
 		"oF": 0
 		},
 	"\/_includes\/header.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/_includes\/header.html",
 		"oF": 0
 		},
 	"\/_layouts\/default.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_layouts\/default.html",
 		"oF": 0
 		},
-	"\/_site\/app.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_site\/app-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/_site\/assets\/downloads\/Jack-Brunton-Trust-ApplicationForm.pdf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/downloads\/Jack-Brunton-Trust-ApplicationForm.pdf",
-		"oF": 0
-		},
-	"\/_site\/assets\/img\/blue-cross-dog-photo.jpg": {
-		"ft": 16384,
-		"iS": 32037,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/blue-cross-dog-photo.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/blue-cross-logo.png": {
-		"ft": 32768,
-		"iS": 4215,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/blue-cross-logo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/church-housing-trust-logo.png": {
-		"ft": 32768,
-		"iS": 9904,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/church-housing-trust-logo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/church-housing-trust.jpg": {
-		"ft": 16384,
-		"iS": 44883,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/church-housing-trust.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/favicons\/android-chrome-192x192.png": {
-		"ft": 32768,
-		"iS": 23838,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/favicons\/android-chrome-192x192.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/favicons\/android-chrome-512x512.png": {
-		"ft": 32768,
-		"iS": 71977,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/favicons\/android-chrome-512x512.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/favicons\/apple-touch-icon.png": {
-		"ft": 32768,
-		"iS": 15154,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/favicons\/apple-touch-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/favicons\/browserconfig.xml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/img\/favicons\/browserconfig.xml",
-		"oF": 0
-		},
-	"\/_site\/assets\/img\/favicons\/favicon-16x16.png": {
-		"ft": 32768,
-		"iS": 949,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/favicons\/favicon-16x16.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/favicons\/favicon-32x32.png": {
-		"ft": 32768,
-		"iS": 1755,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/favicons\/favicon-32x32.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/favicons\/favicon.ico": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/img\/favicons\/favicon.ico",
-		"oF": 0
-		},
-	"\/_site\/assets\/img\/favicons\/manifest.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/_site\/assets\/img\/favicons\/manifest-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/_site\/assets\/img\/favicons\/mstile-144x144.png": {
-		"ft": 32768,
-		"iS": 16961,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/favicons\/mstile-144x144.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/favicons\/mstile-150x150.png": {
-		"ft": 32768,
-		"iS": 15573,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/favicons\/mstile-150x150.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/favicons\/mstile-310x150.png": {
-		"ft": 32768,
-		"iS": 16509,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/favicons\/mstile-310x150.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/favicons\/mstile-310x310.png": {
-		"ft": 32768,
-		"iS": 37640,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/favicons\/mstile-310x310.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/favicons\/mstile-70x70.png": {
-		"ft": 32768,
-		"iS": 10171,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/favicons\/mstile-70x70.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/favicons\/safari-pinned-tab.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/img\/favicons\/safari-pinned-tab.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/assets\/img\/Jack-Brunton-Logo-White.png": {
-		"ft": 32768,
-		"iS": 10274,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/Jack-Brunton-Logo-White.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/Jack-Brunton-Logo.png": {
-		"ft": 32768,
-		"iS": 12140,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/Jack-Brunton-Logo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/north-york-moors-monument.jpg": {
-		"ft": 16384,
-		"iS": 177281,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/north-york-moors-monument.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/placeholder-image.psd": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/img\/placeholder-image.psd",
-		"oF": 0
-		},
-	"\/_site\/assets\/img\/placeholder-img.jpg": {
-		"ft": 16384,
-		"iS": 36007,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/placeholder-img.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/sunflower-feild.jpg": {
-		"ft": 16384,
-		"iS": 40146,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/sunflower-feild.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/trust-map.jpg": {
-		"ft": 16384,
-		"iS": 86708,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/trust-map.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/WDCSS logo_NUMBER1.jpg": {
-		"ft": 16384,
-		"iS": 316256,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/WDCSS logo_NUMBER1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/WDCSS-Logo.jpg": {
-		"ft": 16384,
-		"iS": 53734,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/WDCSS-Logo.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/wdcss-van.jpg": {
-		"ft": 16384,
-		"iS": 48663,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/wdcss-van.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/yorkshire-air-ambulance-logo.jpg": {
-		"ft": 16384,
-		"iS": 33228,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/yorkshire-air-ambulance-logo.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/yorkshire-air-ambulance.jpg": {
-		"ft": 16384,
-		"iS": 49452,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/yorkshire-air-ambulance.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/yorkshire-coutryside.jpg": {
-		"ft": 16384,
-		"iS": 88683,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/yorkshire-coutryside.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/assets\/sass\/app.sass": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 2,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/sass\/app.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/_site\/cookie.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/cookie.html",
 		"oF": 0
 		},
 	"\/_site\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/index.html",
 		"oF": 0
 		},
-	"\/_site\/LICENSE.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_site\/LICENSE.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
 	"\/_site\/privacy.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/privacy.html",
-		"oF": 0
-		},
-	"\/_site\/README.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_site\/README.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_site\/sitemap.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/sitemap.html",
-		"oF": 0
-		},
-	"\/_site\/sitemap.xml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/sitemap.xml",
 		"oF": 0
 		},
 	"\/app.css": {
@@ -461,6 +83,7 @@
 		"oS": 0
 		},
 	"\/assets\/downloads\/Jack-Brunton-Trust-ApplicationForm.pdf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/downloads\/Jack-Brunton-Trust-ApplicationForm.pdf",
@@ -469,6 +92,7 @@
 	"\/assets\/img\/blue-cross-dog-photo.jpg": {
 		"ft": 16384,
 		"iS": 113484,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/blue-cross-dog-photo.jpg",
 		"oF": 0,
@@ -501,6 +125,7 @@
 	"\/assets\/img\/church-housing-trust.jpg": {
 		"ft": 16384,
 		"iS": 188625,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/church-housing-trust.jpg",
 		"oF": 0,
@@ -542,6 +167,7 @@
 		"q": 100
 		},
 	"\/assets\/img\/favicons\/browserconfig.xml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/img\/favicons\/browserconfig.xml",
@@ -570,6 +196,7 @@
 		"q": 100
 		},
 	"\/assets\/img\/favicons\/favicon.ico": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/img\/favicons\/favicon.ico",
@@ -673,6 +300,7 @@
 	"\/assets\/img\/north-york-moors-monument.jpg": {
 		"ft": 16384,
 		"iS": 189542,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/north-york-moors-monument.jpg",
 		"oF": 0,
@@ -681,6 +309,7 @@
 		"q": 100
 		},
 	"\/assets\/img\/placeholder-image.psd": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/img\/placeholder-image.psd",
@@ -689,6 +318,7 @@
 	"\/assets\/img\/placeholder-img.jpg": {
 		"ft": 16384,
 		"iS": 44248,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/placeholder-img.jpg",
 		"oF": 0,
@@ -699,6 +329,7 @@
 	"\/assets\/img\/sunflower-feild.jpg": {
 		"ft": 16384,
 		"iS": 37714,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/sunflower-feild.jpg",
 		"oF": 0,
@@ -709,6 +340,7 @@
 	"\/assets\/img\/trust-map.jpg": {
 		"ft": 16384,
 		"iS": 125052,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/trust-map.jpg",
 		"oF": 0,
@@ -719,6 +351,7 @@
 	"\/assets\/img\/WDCSS logo_NUMBER1.jpg": {
 		"ft": 16384,
 		"iS": 1131178,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/WDCSS logo_NUMBER1.jpg",
 		"oF": 0,
@@ -729,6 +362,7 @@
 	"\/assets\/img\/WDCSS-Logo.jpg": {
 		"ft": 16384,
 		"iS": 58936,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/WDCSS-Logo.jpg",
 		"oF": 0,
@@ -739,6 +373,7 @@
 	"\/assets\/img\/wdcss-van.jpg": {
 		"ft": 16384,
 		"iS": 50444,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/wdcss-van.jpg",
 		"oF": 0,
@@ -749,6 +384,7 @@
 	"\/assets\/img\/yorkshire-air-ambulance-logo.jpg": {
 		"ft": 16384,
 		"iS": 63715,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/yorkshire-air-ambulance-logo.jpg",
 		"oF": 0,
@@ -759,6 +395,7 @@
 	"\/assets\/img\/yorkshire-air-ambulance.jpg": {
 		"ft": 16384,
 		"iS": 560679,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/yorkshire-air-ambulance.jpg",
 		"oF": 0,
@@ -769,6 +406,7 @@
 	"\/assets\/img\/yorkshire-coutryside.jpg": {
 		"ft": 16384,
 		"iS": 88683,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/yorkshire-coutryside.jpg",
 		"oF": 0,
@@ -1037,22 +675,24 @@
 		"uL": 1
 		},
 	"\/cookie.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/cookie.html",
 		"oF": 0
 		},
 	"\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/index.html",
 		"oF": 0
 		},
 	"\/LICENSE.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -1067,16 +707,17 @@
 		"uCM": 0
 		},
 	"\/privacy.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/privacy.html",
 		"oF": 0
 		},
 	"\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -1091,12 +732,14 @@
 		"uCM": 0
 		},
 	"\/sitemap.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/sitemap.html",
 		"oF": 0
 		},
 	"\/sitemap.xml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/sitemap.xml",
@@ -1111,7 +754,8 @@
 	"creationDate": 516526325,
 	"displayValue": "jack-brunton-trust",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "meme-kanye"
+	"iconImageName": "\/assets\/img\/favicons\/apple-touch-icon.png",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -1119,6 +763,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
@@ -1647,6 +1292,10 @@
 			"active": 0,
 			"optionString": "'expression'"
 			},
+		"function-paren-newline": {
+			"active": 0,
+			"optionString": "'multiline'"
+			},
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
@@ -1678,6 +1327,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
@@ -1711,9 +1364,9 @@
 			"active": 0,
 			"optionString": "{'beforeBlockComment': true}"
 			},
-		"lines-around-directive": {
+		"lines-between-class-members": {
 			"active": 0,
-			"optionString": "{'before': 'always', 'after': 'always'}"
+			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
 		"max-depth": {
 			"active": 0,
@@ -1743,6 +1396,10 @@
 			"active": 0,
 			"optionString": "{'max': 1}"
 			},
+		"multiline-comment-style": {
+			"active": 0,
+			"optionString": "'starred-block'"
+			},
 		"multiline-ternary": {
 			"active": 0,
 			"optionString": "'always'"
@@ -1752,14 +1409,6 @@
 			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
 			},
 		"new-parens": {
-			"active": 0,
-			"optionString": ""
-			},
-		"newline-after-var": {
-			"active": 0,
-			"optionString": "'always'"
-			},
-		"newline-before-return": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -2863,7 +2512,8 @@
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"outputStyle": 0,
-		"syntaxCheckerStyle": 1
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 1
 		},
 	"languageDefaultsCSS": {
 		"autoOutputAction": 0,
@@ -2896,6 +2546,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"outputStyle": 0,
+		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -2907,6 +2558,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
@@ -2937,7 +2589,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "kit",
 		"autoOutputPathReplace2": "html",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -2969,13 +2622,13 @@
 		"enableFootnotes": 1,
 		"enableLabels": 1,
 		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
 		"maskEmailAddresses": 1,
 		"outputFormat": 0,
 		"outputStyle": 0,
 		"parseMetadata": 1,
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
+		"shouldRunCacheBuster": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -2984,7 +2637,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -3004,7 +2658,8 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
-		"outputStyle": 0
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -3032,7 +2687,8 @@
 		"logicless": 0,
 		"outputFormat": 0,
 		"outputStyle": 1,
-		"railsCompatible": 0
+		"railsCompatible": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
